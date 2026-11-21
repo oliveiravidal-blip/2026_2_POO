@@ -1,0 +1,1 @@
+1. A parte do retangulo foi ignorada em razão de manter apenas os arquivos rfernte ao projeto.
