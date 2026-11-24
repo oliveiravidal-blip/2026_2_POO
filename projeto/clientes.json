@@ -3,6 +3,7 @@
     "id": 1,
     "nome": "Ana",
     "email": "ana.a@email.com",
-    "fone": "0909090909090"
+    "fone": "0909090909090",
+    "senha": "1234"
   }
 ]
